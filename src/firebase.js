@@ -3,13 +3,13 @@ import 'firebase/firestore';
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyDqO1WgFRJrSyyF0qTqW0d5Vu_r6s_F15Y",
-  authDomain: "asi-midterm-d3b41.firebaseapp.com",
-  projectId: "asi-midterm-d3b41",
-  storageBucket: "asi-midterm-d3b41.appspot.com",
-  messagingSenderId: "87949056092",
-  appId: "1:87949056092:web:d0196a0503c9979f3dee99",
-  measurementId: "G-0F963BM1SQ"
+  apiKey: "AIzaSyALrslOiNnjQn8vRhfikDiFfJoUTKspdgU",
+  authDomain: "use-case-asi-9d291.firebaseapp.com",
+  projectId: "use-case-asi-9d291",
+  storageBucket: "use-case-asi-9d291.appspot.com",
+  messagingSenderId: "180775198644",
+  appId: "1:180775198644:web:bf2836bd10a89ccca09ce1",
+  measurementId: "G-0KSZPF1HRM"
 };
 firebase.initializeApp(firebaseConfig);
 
